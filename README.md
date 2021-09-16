@@ -1,2 +1,2 @@
 # Portfolio
-Collection of Personal Projects
+This is a collection of my personal projects
