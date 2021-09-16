@@ -1,0 +1,38 @@
+{
+  "name": "fire-colony-api",
+  "version": "1.0.0",
+  "description": "## [Frontend code](https://github.com/dielhennr/colony-frontend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dielhennr/fire-colony-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dielhennr/fire-colony-api/issues"
+  },
+  "homepage": "https://github.com/dielhennr/fire-colony-api#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.5.0",
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "elasticsearch": "^16.7.1",
+    "emailjs-com": "^2.6.3",
+    "firebase-admin": "^9.2.0",
+    "firebase-elasticsearch-indexer": "^1.0.2",
+    "firebase-functions": "^3.10.0",
+    "flexsearch": "^0.6.32",
+    "lang.js": "^1.0.0",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.14",
+    "react-use-flexsearch": "^0.1.1"
+  },
+  "devDependencies": {
+    "google-pubsub-emulator": "^4.0.0"
+  }
+}
